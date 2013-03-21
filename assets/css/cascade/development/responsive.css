@@ -121,14 +121,14 @@
         display: none !important;
     }
 
-    section,article,header,footer,aside,nav,.col,
+    section,article,header,footer,aside,nav,.row,
     section.sizefit,section.sizefill,
     article.sizefit,article.sizefill,
     header.sizefit,header.sizefill,
     footer.sizefit,footer.sizefill,
     aside.sizefit,aside.sizefill,
     nav.sizefit,nav.sizefill,
-    .col.sizefit,.col.sizefill {
+    .row.sizefit,.row.sizefill {
         padding:0 !important;
         display:block !important;
         float:left !important;
@@ -164,14 +164,14 @@
     footer.mobile-sizefill,
     aside.mobile-sizefill,
     nav.mobile-sizefill,
-    .col.mobile-sizefill {display:table-cell !important;float:none!important;min-width:50px!important;width:10000px!important;}
+    .row.mobile-sizefill {display:table-cell !important;float:none!important;min-width:50px!important;width:10000px!important;}
     section.mobile-sizefit,
     article.mobile-sizefit,
     header.mobile-sizefit,
     footer.mobile-sizefit,
     aside.mobile-sizefit,
     nav.mobile-sizefit,
-    .col.mobile-sizefit {width:auto!important;}
+    .row.mobile-sizefit {width:auto!important;}
 
     .mobile-center {
         float:none !important;
@@ -187,14 +187,14 @@
     footer.tablet-sizefill,
     aside.tablet-sizefill,
     nav.tablet-sizefill,
-    .col.tablet-sizefill {display:table-cell !important;float:none!important;min-width:50px!important;width:10000px!important;}
+    .row.tablet-sizefill {display:table-cell !important;float:none!important;min-width:50px!important;width:10000px!important;}
     section.tablet-sizefit,
     article.tablet-sizefit,
     header.tablet-sizefit,
     footer.tablet-sizefit,
     aside.tablet-sizefit,
     nav.tablet-sizefit,
-    .col.tablet-sizefit {width:auto!important;}
+    .row.tablet-sizefit {width:auto!important;}
 
     .tablet-center {
         float:none !important;
@@ -210,14 +210,14 @@
     footer.phone-sizefill,
     aside.phone-sizefill,
     nav.phone-sizefill,
-    .col.phone-sizefill {display:table-cell !important;float:none!important;min-width:50px!important;width:10000px!important;}
+    .row.phone-sizefill {display:table-cell !important;float:none!important;min-width:50px!important;width:10000px!important;}
     section.phone-sizefit,
     article.phone-sizefit,
     header.phone-sizefit,
     footer.phone-sizefit,
     aside.phone-sizefit,
     nav.phone-sizefit,
-    .col.phone-sizefit {width:auto!important;}
+    .row.phone-sizefit {width:auto!important;}
 
     .phone-center {
         float:none !important;

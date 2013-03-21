@@ -172,19 +172,19 @@
 }
 
 @media (min-width: 768px) {
-    .desktop-hidden,.col.desktop-hidden {
+    .desktop-hidden,.row.desktop-hidden {
         display:none !important;
     }
 }
 
 @media (max-width:767px) {
-    .mobile-hidden,.col.mobile-hidden {
+    .mobile-hidden,.row.mobile-hidden {
         display:none !important;
     }
 }
 
 @media (min-width: 481px) and (max-width: 767px) {
-    .tablet-hidden,.col.tablet-hidden {
+    .tablet-hidden,.row.tablet-hidden {
         display:none !important;
     }
 }

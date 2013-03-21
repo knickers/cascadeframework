@@ -148,7 +148,7 @@ audio:not([controls]) {
     float:none;
 }
 
-section,article,header,footer,aside,nav,img,.nav,.col,.tabs,.tab-content,.sizefit,.nav li,button,.button,.button-group,.nav a,.left li li,.tabs .left,.right li li {
+section,article,header,footer,aside,nav,img,.nav,.row,.tabs,.tab-content,.sizefit,.nav li,button,.button,.button-group,.nav a,.left li li,.tabs .left,.right li li {
     float:left;
 }
 
@@ -514,7 +514,7 @@ blockquote {
     width:18px;
 }
 
-section,article,header,footer,aside,nav,.col,.tabs {
+section,article,header,footer,aside,nav,.row,.tabs {
     min-height:1px;
 }
 
@@ -527,7 +527,7 @@ section,article,header,footer,aside,nav,.col,.tabs {
     min-width:50px;
 }
 
-section,article,header,footer,aside,nav,.site-footer,.site-header,table,.col,.tabs,.tab-content,.tabs .nav,figure img,.tree li {
+section,article,header,footer,aside,nav,.site-footer,.site-header,table,.row,.tabs,.tab-content,.tabs .nav,figure img,.tree li {
     width:100%;
 }
 
